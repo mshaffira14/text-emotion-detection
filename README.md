@@ -49,7 +49,7 @@
 
 ---
 
-## 🧪 INDOBERT-BASE-LARGE-P2 (Params from Paper)
+## 🧪 INDOBERT-LARGE-P2 (Params from Paper)
 
 | Emotion  | Precision | Recall | F1-score | Support |
 |----------|-----------|--------|----------|---------|
